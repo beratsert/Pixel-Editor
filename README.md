@@ -1,0 +1,2 @@
+# Pixel-Editor
+The goal in this project was to realize a pixel editor that allows the user to work on a 32x32 8-bit color image using a VGA screen and a Nexys-3 FPGA. It was initially planned that the VGA screen would have a 640x480 resolution and the pixels on the image would correspond 10x10 squares on the screen. In this design, the user would select a pixel on the image using the left, right, up and down push buttons, with the central push button enabling the user to color the selected pixel with the color specified by switch buttons on the FPGA board.
